@@ -1,0 +1,21 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"AngularJS",
+		"AngularZen",
+		"AutoCompleteJS",
+		"DocBlockr",
+		"Emmet",
+		"Github Tools",
+		"JSHint Gutter",
+		"LiveReload",
+		"LiveStyle",
+		"Package Control",
+		"RailsCasts Colour Scheme",
+		"SyncedSideBar"
+	]
+}

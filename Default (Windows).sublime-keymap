@@ -1,0 +1,6 @@
+[
+	{ "keys": ["ctrl+shift+f"], "command": "reindent" },
+	{ "keys": ["ctrl+alt+f"], "command": "show_panel", "args": {"panel": "find_in_files"} },
+	{ "keys": ["shift+enter"], "command": "run_macro_file", "args": {"file": "res://Packages/Default/Add Line.sublime-macro"} },
+	{ "keys": ["ctrl+d"], "command": "run_macro_file", "args": {"file": "res://Packages/Default/Delete Line.sublime-macro"} },	
+]
